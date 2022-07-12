@@ -6,7 +6,9 @@
  
  [Foreign Key](https://brunch.co.kr/@dan-kim/26)
  
- [Entity](https://rh-cp.tistory.com/78)
+ [Entity-1](https://rh-cp.tistory.com/78)
+ 
+ [Entity-2](https://velog.io/@gshduet/database-entity)
  
  
  
