@@ -10,5 +10,7 @@
  
  [Entity-2](https://velog.io/@gshduet/database-entity)
  
+ [UUID](https://www.huskyhoochu.com/what-is-uuid/)
+ 
  
  
