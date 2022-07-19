@@ -22,9 +22,12 @@
 
 [API](https://aws.amazon.com/ko/what-is/api/)
 
+
 [HTTP](https://joshua1988.github.io/web-development/http-part1/)
 
 [Node.js Express](https://ninjaggobugi.tistory.com/9)
+
+[JavaScript](https://ko.javascript.info/intro)
 
 ------------------------------------------------------------------------------------------------
 ## Practice
