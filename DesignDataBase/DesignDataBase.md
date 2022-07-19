@@ -18,6 +18,8 @@
 
 [Rest API](https://khj93.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-REST-API%EB%9E%80-REST-RESTful%EC%9D%B4%EB%9E%80)
 
+[Restful](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
+
 [API](https://aws.amazon.com/ko/what-is/api/)
 
 [HTTP](https://joshua1988.github.io/web-development/http-part1/)
