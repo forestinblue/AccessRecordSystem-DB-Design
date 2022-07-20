@@ -31,6 +31,8 @@
 
 [Node.js Express](https://ninjaggobugi.tistory.com/9)
 
+[Node.js ORM - Sequalize](https://guiyomi.tistory.com/87)
+
 [JavaScript](https://ko.javascript.info/intro)
 
 ------------------------------------------------------------------------------------------------
