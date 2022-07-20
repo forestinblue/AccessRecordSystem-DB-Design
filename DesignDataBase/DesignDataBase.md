@@ -2,7 +2,9 @@
  
  [Design DataBase Schema](https://www.integrate.io/ko/blog/complete-guide-to-database-schema-design-ko/)
  
- [ORM, Object Relational Mapping](https://skyjwoo.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A7%A4%ED%95%91Mapping#:~:text=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A8%EC%97%90,%EB%8B%A8%EA%B3%84%EB%A1%9C%20mapping%EC%8B%9C%ED%82%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4%EB%8B%A4.)
+ [ORM, Object Relational Mapping1](https://skyjwoo.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A7%A4%ED%95%91Mapping#:~:text=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A8%EC%97%90,%EB%8B%A8%EA%B3%84%EB%A1%9C%20mapping%EC%8B%9C%ED%82%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4%EB%8B%A4.)
+ 
+  [ORM, Object Relational Mapping2](https://loopstudy.tistory.com/209)
  
  [Key-Primary Key, Candidate & Alternative Key, Composite, Super Key](https://jhnyang.tistory.com/71)
  
