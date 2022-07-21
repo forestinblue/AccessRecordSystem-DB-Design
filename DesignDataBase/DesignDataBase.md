@@ -33,6 +33,8 @@
 
 [Node.js ORM - Sequalize](https://guiyomi.tistory.com/87)
 
+[Node.js - dotenv](https://defineall.tistory.com/859#javascript%EC%--%--%EC%--%-C%--dotenv%--%ED%-C%-C%EC%-D%BC%--%EA%B-%--%EB%A-%AC%ED%--%--%EA%B-%B-)
+
 [JavaScript](https://ko.javascript.info/intro)
 
 [Router-1](https://sites.google.com/site/21herecomeputer/123123)
