@@ -41,6 +41,11 @@
 
 [Router-2](https://i5i5.tistory.com/455)
 
+[Node.js - 비동기방식](https://brunch.co.kr/@clay1987/141#:~:text=%EB%B9%84%EB%8F%99%EA%B8%B0%20%EB%B0%A9%EC%8B%9D%EC%9D%80%20%ED%95%98%EB%82%98%EC%9D%98,%EC%9D%98%20%EC%88%9C%EC%B0%A8%EC%A0%81%EC%9D%B8%20%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%8B%9D.)
+
+[Node.js - Event](https://stickie.tistory.com/66)
+
+
 ------------------------------------------------------------------------------------------------
 ## Practice
 
