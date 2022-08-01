@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-
+//이파일은 서버를 실행시키는 파일입니다.
+//커맨더 창에서 npm start 명령어를 실행하면, 이 파일이 실행되는 것입니다.
 /**
  * Module dependencies.
  */
@@ -11,14 +12,14 @@ var http = require('http');
 /**
  * Get port from environment and store in Express.
  */
-
+//포트 설정
 var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**
  * Create HTTP server.
  */
-
+// 이벤트 핸들링
 var server = http.createServer(app);
 
 /**
@@ -88,3 +89,5 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
+
+console.log("Hi!");
