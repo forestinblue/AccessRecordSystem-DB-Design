@@ -47,6 +47,8 @@
 
 [Node.js -Callback](https://dalkomit.tistory.com/65)
 
+[Computer Resourse](https://codebreaking.tistory.com/74)
+
 ------------------------------------------------------------------------------------------------
 ## Practice
 
